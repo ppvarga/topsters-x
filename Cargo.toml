@@ -19,6 +19,7 @@ web-sys = { version = "0.3", features = [
   "HtmlCanvasElement",
   "CanvasRenderingContext2d",
 ] }
+serde = "1.0.228"
 
 [features]
 hydrate = [
